@@ -2,7 +2,7 @@
 # LIENS DU PROJET  L-instant-Ginkgo
 https://www.sc1lgvu9627.universe.wf/
 
-## NOTICE SPRINT06<br>
+## NOTICE L'instant Ginkgo<br>
 **Pour lancer mon site** veuillez cliquez sur le ce lien [https://www.sc1lgvu9627.universe.wf/](https://www.sc1lgvu9627.universe.wf/)
 
 Mon site est héberger sur la plateforme [o2switch](https://kip.o2switch.net:2083/)
